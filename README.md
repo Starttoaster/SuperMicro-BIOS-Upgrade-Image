@@ -3,6 +3,8 @@ Ever want to upgrade your SuperMicro BIOS over IPMI? Bootable USBs not working? 
 
 **Currently in testing but confirmed working on X8SIE, X9DRD, and X9SCM.
 
+**DOWNLOAD LINK:** https://www.dropbox.com/sh/pp82xcv063zg014/AAB6F3IaVhW5fLDd8Al5bPI7a?dl=0
+
 Current BIOS versions on .iso:
 
 X7DVL----------------------------------------------[2.1a]  
