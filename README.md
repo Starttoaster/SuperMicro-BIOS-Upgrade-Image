@@ -23,7 +23,7 @@ X11SSL---------------------------------------------[2.1]
 
 Last Updated 1/21/2018
 
-SHA256 -- 6EF075D6B2B4E8729775B0E065CDD0B514241AF7A2484D7D224BB56261BA0F1D
+SHA256 -- 5e61bd0e604923ec8ff62b3b5c5456260a8df8294e3391dc2380ab8ff87aaf01
 
 Always Update IPMI before BIOS. You can do this in the IPMI interface with the firmware upgrade option. To update BIOS, mount this iso over IPMI and select your motherboard version.
 
