@@ -27,4 +27,6 @@ SHA256 -- 6EF075D6B2B4E8729775B0E065CDD0B514241AF7A2484D7D224BB56261BA0F1D
 
 Always Update IPMI before BIOS. You can do this in the IPMI interface with the firmware upgrade option. To update BIOS, mount this iso over IPMI and select your motherboard version.
 
+Additional options include: IPMICFG utility and LSI RAID firmware+MegaCLI.
+
 USE AT OWN RISK. UPGRADING BIOS ALWAYS HAS A CHANCE TO RENDER YOUR MOTHERBOARD USELESS. I WILL TAKE NO RESPONSIBILITY FOR BROKEN PROPERTY DUE TO USE OF THIS ISO.
