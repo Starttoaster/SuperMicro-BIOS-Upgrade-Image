@@ -4,6 +4,7 @@ Ever want to upgrade your SuperMicro BIOS over IPMI? Bootable USBs not working? 
 **Currently in testing but confirmed working on X8SIE, X9DRD, and X9SCM.
 
 **DOWNLOAD LINK:** https://www.dropbox.com/sh/pp82xcv063zg014/AAB6F3IaVhW5fLDd8Al5bPI7a?dl=0
+**SHA256 File Hash:** 2f82965c4f8af21c94c0ab5f1ea6a335b268298714a117d22bd2bf5c39011ebd
 
 Current BIOS versions on .iso:
 
@@ -19,13 +20,11 @@ X10SRH---------------------------------------------[2.0b]
 X10DRI---------------------------------------------[2.1a]   
 X10DDW---------------------------------------------[2.0a]  
 X10SRW---------------------------------------------[2.0b]  
-X11SSL---------------------------------------------[2.1]  
+X11SSL---------------------------------------------[2.0c]  
 
-Last Updated 1/21/2018
+Last Updated 1/28/2018
 
-SHA256 -- 5e61bd0e604923ec8ff62b3b5c5456260a8df8294e3391dc2380ab8ff87aaf01
-
-Always Update IPMI before BIOS. You can do this in the IPMI interface with the firmware upgrade option. To update BIOS, mount this iso over IPMI and select your motherboard version.
+Always Update IPMI before BIOS. You can do this in the IPMI interface with the firmware upgrade option. To update BIOS, mount this iso over IPMI or KVM and select your motherboard version.
 
 Additional options include: IPMICFG utility and LSI RAID firmware+MegaCLI.
 
