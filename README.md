@@ -1,18 +1,14 @@
 # SuperMicro-BIOS-Upgrade-Image
 Ever want to upgrade your SuperMicro BIOS over IPMI? Bootable USBs not working? This is a bootable DOS .iso image that you can easily attach over virtual storage. 
 
-**Currently in testing but confirmed working on X8SIE, X9DRD, X9SCM, and X10DDW.
+**Currently in testing but confirmed working on all boards except X11DDW-L
 
 **DOWNLOAD LINK:** https://www.dropbox.com/sh/85pfre27c1epttp/AAB-oy_1eAiX0j59Fwu0umBDa?dl=0
 
-**SHA256 File Hash:** e649682949feb54a1c2ebb3befcc615dd4103becd1630634c531a2fc9b18b29d
+**SHA256 File Hash:** 590090cb0bc067bd011c0b1d3180d9f3724ccf7d2149527491e1bca095c6bf33
 
 Current BIOS versions on .iso:
 
-X7DVL----------------------------------------------[2.1a]  
-X8SIL----------------------------------------------[1.2a]  
-X8SIE----------------------------------------------[1.2a]  
-X8DTL----------------------------------------------[2.1b]  
 X9SCM ---------------------------------------------[2.2]   
 X9DRD-IF ------------------------------------------[3.2]   
 X9DRD-EF / X9DRD-7LN4F ----------------------------[3.2]   
@@ -21,7 +17,8 @@ X10SRH---------------------------------------------[2.0b]
 X10DRI---------------------------------------------[2.1a]   
 X10DDW---------------------------------------------[2.0a]  
 X10SRW---------------------------------------------[2.0b]  
-X11SSL---------------------------------------------[2.0c]  
+X11SSL---------------------------------------------[2.0c]
+X11DDW-L **Experimental**
 
 Last Updated 1/28/2018
 
